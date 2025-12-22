@@ -1,1 +1,1 @@
-# 遊戲: https://remi-514.github.io/remisOSU/
+# 連結: https://remi-514.github.io/remisOSU/
