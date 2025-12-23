@@ -14,10 +14,11 @@
 
 ## ✦ 遊戲連結與展示 ✦
 
-<h2 align="center">
-  <a href="https://remi-514.github.io/remisOSU/">進入遊戲</a>
-</h2>
-
+<p align="center">
+  <h1 align="center">
+    <a href="https://remi-514.github.io/remisOSU/">進入遊戲</a>
+  </h1>
+  
 <p align="center">
   <img src="https://spatial-gold-qitvh99r82-ee0q5urojk.edgeone.dev/a.png"
        alt="Game Preview"
