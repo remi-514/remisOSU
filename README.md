@@ -20,7 +20,7 @@
   </h1>
   
 <p align="center">
-  <img src="https://spatial-gold-qitvh99r82-ee0q5urojk.edgeone.dev/a.png"
+  <img src="https://image2url.com/r2/bucket1/images/1766573691906-edc6a6d6-310d-4e80-8df1-e1d350cb660e.png"
        alt="Game Preview"
        width="500"/>
 </p>
