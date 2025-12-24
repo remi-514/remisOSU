@@ -20,7 +20,7 @@
   </h1>
   
 <p align="center">
-  <img src="https://image2url.com/r2/bucket1/images/1766573691906-edc6a6d6-310d-4e80-8df1-e1d350cb660e.png"
+  <img src="https://cdn.phototourl.com/uploads/2025-12-24-a73506cd-3fad-4b36-93b9-35919ad50fa4.png"
        alt="Game Preview"
        width="500"/>
 </p>
